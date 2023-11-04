@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ekhlakh Ahmad</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekhlakhahmad" alt="ekhlakhahmad" /></a> </p>
+<p align="center"><img src="https://github.com/ekhlakhahmad/ekhlakhahmad/blob/main/pray_code_sleep_repeat.png?raw=true" alt="ekhlakhahmad" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://ekhlakh-personal-portfolio.netlify.app/](https://ekhlakh-personal-portfolio.netlify.app/)
 
