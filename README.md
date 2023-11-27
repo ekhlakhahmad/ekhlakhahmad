@@ -5,7 +5,7 @@
 <p align="center">- 👨‍💻 All of my projects are available at <a href="https://ekhlakh-personal-portfolio.netlify.app/">Personal Portfolio </p>
 
 <p align="center"><b>How to reach me</b><br>
-  <a href="tel:+919576650491">+91 9576650491 <br>
+  <a href="tel:9576650491">+91 9576650491 <br>
   <a href="mailto:ekhlakhahmad95@gmail.com">ekhlakhahmad95@gmail.com</a> </p><br><br>
 
 <h3 align="center">Connect with me:</h3>
