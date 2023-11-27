@@ -5,7 +5,10 @@
 <p align="center">- 👨‍💻 All of my projects are available at [https://ekhlakh-personal-portfolio.netlify.app/](https://ekhlakh-personal-portfolio.netlify.app/) </p>
 
 <p align="center">- 📫 How to reach me 
-<ul> <li><a href="ekhlakhahmad95@gmail.com">**ekhlakhahmad95@gmail.com**</a></li></ul></p>
+  📧 <a href="ekhlakhahmad95@gmail.com">ekhlakhahmad95@gmail.com</a> <br><br>
+  ![CallMeGIF](https://github.com/ekhlakhahmad/ekhlakhahmad/assets/117112382/cdd192c0-e2a2-40fe-829c-5d5f834af1ae)
+
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
