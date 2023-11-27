@@ -4,10 +4,9 @@
 
 <p align="center">- 👨‍💻 All of my projects are available at [https://ekhlakh-personal-portfolio.netlify.app/](https://ekhlakh-personal-portfolio.netlify.app/) </p>
 
-<p align="center">- 📫 How to reach me 
-  📧 <a href="ekhlakhahmad95@gmail.com" target="_blank">ekhlakhahmad95@gmail.com</a> <br><br>
-  📞 <a href="tel:9576650491" target="_blank">+91 9576650491</a><br><br>
-
+<p align="center">- 📫 How to reach me <br><br>
+  📧 <a href="ekhlakhahmad95@gmail.com" target="_blank">ekhlakhahmad95@gmail.com</a> <br>
+  📞 <a href="tel:9576650491" target="_blank">+91 9576650491</a> <br>
 </p>
 
 <h3 align="center">Connect with me:</h3>
