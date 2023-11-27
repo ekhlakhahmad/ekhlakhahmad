@@ -2,12 +2,12 @@
 
 <p align="center"><img src="https://github.com/ekhlakhahmad/ekhlakhahmad/blob/main/pray_code_sleep_repeat.png?raw=true" alt="ekhlakhahmad" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ekhlakh-personal-portfolio.netlify.app/](https://ekhlakh-personal-portfolio.netlify.app/)
+<p align="center">- 👨‍💻 All of my projects are available at [https://ekhlakh-personal-portfolio.netlify.app/](https://ekhlakh-personal-portfolio.netlify.app/) </p>
 
-- 📫 How to reach me **ekhlakhahmad95@gmail.com**
+<p align="center">- 📫 How to reach me **ekhlakhahmad95@gmail.com** </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ekhlakhahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ekhlakhahmad/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ekhlakhahmad9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ekhlakhahmad9/" height="30" width="40" /></a>
 </p>
